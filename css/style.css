@@ -2384,7 +2384,7 @@ select {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding: 200px 0px 200px 0px;
+  padding: 60px 0px 60px 0px;
 }
 
 .home-carousel .slide-item:before {
